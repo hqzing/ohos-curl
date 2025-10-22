@@ -71,7 +71,7 @@ cp COPYING /opt/curl-8.8.0-ohos-arm64
 cd ..
 
 # Codesign
-/opt/ohos-sdk/linux/toolchains/lib/binary-sign-tool sign -inFile /opt/curl-8.8.0-ohos-arm64/bin/zsh -outFile /opt/curl-8.8.0-ohos-arm64/bin/zsh -selfSign 1
+/opt/ohos-sdk/linux/toolchains/lib/binary-sign-tool sign -inFile /opt/curl-8.8.0-ohos-arm64/bin/curl -outFile /opt/curl-8.8.0-ohos-arm64/bin/curl -selfSign 1
 
 cd /opt
 tar -zcf curl-8.8.0-ohos-arm64.tar.gz curl-8.8.0-ohos-arm64

@@ -1,7 +1,7 @@
 # ohos-curl
 This project will build curl for the OpenHarmony platform and release prebuilt packages.
 
-This is a statically-linked curl. Just copy the binary and use it.
+This is a statically linked curl. Just copy the binary and use it.
 
 ## Get prebuilt packages
 Go to the [release page](https://github.com/Harmonybrew/ohos-curl/releases).
