@@ -7,7 +7,7 @@
 前往 [release 页面](https://github.com/Harmonybrew/ohos-curl/releases) 获取。
 
 ## 从源码构建
-用一台 Linux x64 服务器来运行项目里的 build.sh，即可交叉编译出 OpenHarmony 版本的 curl。
+需要用一台 Linux x64 服务器来运行项目里的 build.sh，以实现 curl 的交叉编译。
 
 这里以 Ubuntu 24.04 x64 作为示例：
 ```sh
